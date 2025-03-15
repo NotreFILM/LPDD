@@ -6,9 +6,9 @@ html, body {
 
 
 #myText {
-    font-size: 70px;
+    font-size: 75px;
     position: absolute;
-    top: 20%; 
+    top: 30%; 
     left: 50%;
     transform: translateX(-50%);
 }
@@ -16,6 +16,7 @@ html, body {
 
 #codeInput {
     position: absolute;
+    width: 20px;
     top: 50%; 
     left: 50%;
     width: 10px;
@@ -24,7 +25,7 @@ html, body {
 
 #submitButton {
     position: absolute;
-    top: 50%; 
-    left: 80%;
+    top: 58%; 
+    left: 50%;
     transform: translateX(-50%);
 }
