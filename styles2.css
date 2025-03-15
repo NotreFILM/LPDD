@@ -1,8 +1,13 @@
 #myText {
     font-size: 70px;
-    transform: translate(40%, -80%);
+    transform: translate(40%, -20%);
 }
 
 #codeInput {
-    transform: translate(40%, -90%);
+    transform: translate(40%, -30%);
+    width: 30px;
+}
+
+#submitButton {
+    transform: translate(60%, -30%);
 }
