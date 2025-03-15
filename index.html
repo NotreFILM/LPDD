@@ -3,9 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>LPDD</title>
 </head>
 <body>
-    <button>djdjdjdj</button>
+ 
+    <h2>Enter the code</h2>
+    <input type="text" id="codeInput" placeholder="enter the code">
+    <button onclick="checkCode()">Confirm</button>
 </body>
+<script>
+    function checkCode() {
+        let inputCode = document.getElementById("codeInput").Value;
+        alert("Entered code: " + inputCode);
+    }
+</script>
 </html>
