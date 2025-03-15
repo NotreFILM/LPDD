@@ -16,7 +16,7 @@ html, body {
 
 #smallText {
     position: absolute;
-    top: 41%; 
+    top: 38%; 
     left: 50%;
     transform: translateX(-50%);
 }
