@@ -14,12 +14,17 @@
 <script>
     function checkCode() {
         let inputCode = document.getElementById("codeInput").value.trim();
-        let correctCode = "OURMEMORI";
+        let correctCode = "4107";
+
+        console.log("entered code", inputCode);
+        console.log("correct code", correctCode);
 
         if (inputCode === correctCode) {
+            console.log("LPDD is activated")
             window.location.href = "vidio.html";
         } else {
-            alert("The code is WRONG. Enter it again");
+            console.log("Code mismatch")
+            alert("The code is wrong. Enter it again");
         }
     }
 </script>
