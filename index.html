@@ -14,7 +14,13 @@
 <script>
     function checkCode() {
         let inputCode = document.getElementById("codeInput").Value;
-        alert("Entered code: " + inputCode);
+        let correctCode = "4107";
+
+        if (inputCode === correctCode) {
+            window.location.href = "vidio.html";
+        } else {
+            alert("The code is WRONG. Enter it again");
+        }
     }
 </script>
 </html>
