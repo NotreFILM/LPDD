@@ -1,0 +1,5 @@
+#myText {
+    font-size: 70px;
+    position: absolute;
+    transform: translate(0%, -40%);
+}
