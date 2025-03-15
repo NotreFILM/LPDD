@@ -4,6 +4,12 @@ html, body {
     position: relative;
 }
 
+img {
+    position: absolute;
+    top: 30%; 
+    left: 28%;
+}
+
 #myText {
     font-size: 30px;
     position: absolute;
