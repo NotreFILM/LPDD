@@ -1,5 +1,11 @@
 #myText {
     font-size: 70px;
     position: absolute;
-    transform: translate(0%, -40%);
+    transform: translate(-50%, -30%);
+}
+
+#codeInput {
+    padding: 10px;
+    font-size: 25px;
+    transform: translate(-50%, -50%);
 }
