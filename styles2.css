@@ -8,7 +8,7 @@ html, body {
 #myText {
     font-size: 75px;
     position: absolute;
-    top: 24%; 
+    top: 23%; 
     left: 50%;
     transform: translateX(-50%);
 }
@@ -16,7 +16,7 @@ html, body {
 
 #smallText {
     position: absolute;
-    top: 30%; 
+    top: 41%; 
     left: 50%;
     transform: translateX(-50%);
 }
@@ -27,7 +27,7 @@ html, body {
     font-size: 13px;
     padding: 5px;
     width: 150px;
-    top: 42%; 
+    top: 46%; 
     left: 50%;
     transform: translateX(-50%);
 }
