@@ -8,7 +8,7 @@ html, body {
 #myText {
     font-size: 75px;
     position: absolute;
-    top: 30%; 
+    top: 24%; 
     left: 50%;
     transform: translateX(-50%);
 }
@@ -16,15 +16,17 @@ html, body {
 
 #codeInput {
     position: absolute;
-    width: 50px;
-    top: 50%; 
+    font-size: 18px;
+    padding: 5px;
+    width: 80px;
+    top: 53%; 
     left: 50%;
     transform: translateX(-50%);
 }
 
 #submitButton {
     position: absolute;
-    top: 58%; 
+    top: 57%; 
     left: 50%;
     transform: translateX(-50%);
 }
