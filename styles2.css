@@ -14,13 +14,6 @@ html, body {
 }
 
 
-#smallText {
-    position: absolute;
-    top: 38%; 
-    left: 50%;
-    transform: translateX(-50%);
-}
-
 
 #codeInput {
     position: absolute;
