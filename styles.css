@@ -7,10 +7,10 @@ html, body {
 img {
     width: 100%;
     height: auto;
-    max-width: 200px;
+    max-width: 260px;
     position: absolute;
-    top: 30%; 
-    left: 28%;
+    top: 36%; 
+    left: 20%;
 }
 
 #myText {
